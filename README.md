@@ -2,10 +2,11 @@
 
 # ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~
 
+<img src="https://media1.tenor.com/m/bM6HRg7CgpcAAAAC/maria-mikhailovna-kujou-roshidere.gif" alt="Kujou" width="220" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Rust+and+Golang+developer;Linux+(Fedora)+user;anime+and+manga+fan;open+to+collaboration)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://media1.tenor.com/m/bM6HRg7CgpcAAAAC/maria-mikhailovna-kujou-roshidere.gif" alt="Kujou" width="200" />
   <img src="https://media1.tenor.com/m/L6gAWJ03Cz0AAAAC/maria-mikhailovna-kujou-masha.gif" alt="Kujou" width="200" />
   <img src="https://media1.tenor.com/m/X4eZacr_2CkAAAAC/pout.gif" alt="Kujou pout" width="200" />
 </p>
