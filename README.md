@@ -18,7 +18,7 @@
 
 ##  🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊
 
-<img src="https://camo.githubusercontent.com/e8fefbc5506c7520fdbfb44bf0e52488c7ee48a98db7e997e304e6d6f5b0ff8d/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f65316631633937313233616532313765623733313530306535303265303038332f74756d626c725f6e39647863696b6d4955317163397a667a6f375f72315f3235302e676966" align="right">
+<img src="assets/k1.gif" align="right" width="250" alt="Kujou">
 
 - **𝓝𝒶𝓂𝑒:** Fahzan Dewantara
 - **𝒢𝑒𝓃𝒹𝑒𝓇:** he/him
