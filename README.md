@@ -2,7 +2,7 @@
 
 # ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~
 
-<img src="assets/top.gif" alt="Kujou" width="220" />
+<img src="assets/top.gif" alt="Kujou" width="440" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Rust+and+Golang+developer;Linux+(Fedora)+user;anime+and+manga+fan;open+to+collaboration)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 
 ##  🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊
 
-<img src="assets/about.gif" align="right" width="250" alt="Kujou">
+<img src="assets/about.gif" align="right" alt="Kujou">
 
 - **𝓝𝒶𝓂𝑒:** Fahzan Dewantara
 - **𝒢𝑒𝓃𝒹𝑒𝓇:** he/him
