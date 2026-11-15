@@ -7,11 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Rust+and+Golang+developer;Linux+(Fedora)+user;anime+and+manga+fan;open+to+collaboration)](https://git.io/typing-svg)
 
 <p>
-  <img src="assets/k2.gif" alt="Kujou" width="200" />
-  <img src="assets/k3.gif" alt="Kujou pout" width="200" />
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=linux,rust,go,git,docker,vscode" alt="Linux, Rust, Golang, Git, Docker, VSCode" />
 </p>
 
@@ -23,7 +18,7 @@
 
 ##  🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊
 
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://camo.githubusercontent.com/e8fefbc5506c7520fdbfb44bf0e52488c7ee48a98db7e997e304e6d6f5b0ff8d/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f65316631633937313233616532313765623733313530306535303265303038332f74756d626c725f6e39647863696b6d4955317163397a667a6f375f72315f3235302e676966" align="right">
 
 - **𝓝𝒶𝓂𝑒:** Fahzan Dewantara
 - **𝒢𝑒𝓃𝒹𝑒𝓇:** he/him
