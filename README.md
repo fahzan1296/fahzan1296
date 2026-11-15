@@ -18,7 +18,7 @@
 
 ##  🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊
 
-<img src="assets/about.gif" align="right" width="240" alt="Masha">
+<img src="assets/about.gif" align="right" width="165" alt="Alya">
 
 - **𝓝𝒶𝓂𝑒:** Fahzan Dewantara
 - **𝒢𝑒𝓃𝒹𝑒𝓇:** he/him
