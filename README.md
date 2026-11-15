@@ -16,7 +16,11 @@
 
 <br>
 
+<div align="center">
+
 ##  🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊
+
+</div>
 
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" alt="Alya">
 
@@ -28,7 +32,11 @@
 
 <br>
 
+<div align="center">
+
 ##             ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
@@ -42,7 +50,11 @@
 
 <br>
 
+<div align="center">
+
 ## 📊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 📊
+
+</div>
 
 <p align="center">
   <img src="https://gh-readme-stats.vercel.app/api?username=fahzan1296&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -58,7 +70,11 @@
 
 <br>
 
+<div align="center">
+
 ## 💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖
+
+</div>
 
 <div align="center">
 
