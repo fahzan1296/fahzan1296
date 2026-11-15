@@ -21,7 +21,8 @@
 - **𝓝𝒶𝓂𝑒:** Fahzan Dewantara
 - **𝒢𝑒𝓃𝒹𝑒𝓇:** he/him
 - **𝒪𝒮:** Linux (Fedora)
-- **𝐻𝑜𝒷𝒷𝓎𝓈:** Rust, Golang, anime
+- **𝒯𝑒𝒸𝒽:** Rust, Golang
+- **𝐻𝑜𝒷𝒷𝓎𝓈:** anime
 
 <br>
 
