@@ -22,7 +22,7 @@
 - **𝒢𝑒𝓃𝒹𝑒𝓇:** he/him
 - **𝒪𝒮:** Linux (Fedora)
 - **𝒯𝑒𝒸𝒽:** Rust, Golang
-- **𝐻𝑜𝒷𝒷𝓎𝓈:** anime
+- **𝐻𝑜𝒷𝒷𝓎𝓈:** nonton anime, baca manga
 
 <br>
 
