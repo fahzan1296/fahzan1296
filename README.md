@@ -1,10 +1,14 @@
 <div align="center">
 
-# Hello, I'm Fahzan 👋
+# ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Rust+and+Golang+developer;Linux+(Fedora)+user;anime+and+manga+fan;open+to+collaboration)](https://git.io/typing-svg)
 
-![Kujou](https://cdn.donmai.us/original/94/3d/943d586bf5ef3ffe2432ae32e69da471.jpg)
+<p>
+  <img src="https://media1.tenor.com/m/bM6HRg7CgpcAAAAC/maria-mikhailovna-kujou-roshidere.gif" alt="Kujou" width="200" />
+  <img src="https://media1.tenor.com/m/L6gAWJ03Cz0AAAAC/maria-mikhailovna-kujou-masha.gif" alt="Kujou" width="200" />
+  <img src="https://media1.tenor.com/m/X4eZacr_2CkAAAAC/pout.gif" alt="Kujou pout" width="200" />
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,rust,go,git,docker,vscode" alt="Linux, Rust, Golang, Git, Docker, VSCode" />
@@ -16,19 +20,19 @@
 
 <br>
 
-## About Me
+##  🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊
 
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 
-- **Name:** Fahzan Dewantara
-- **Gender:** he/him
-- **OS:** Linux (Fedora)
-- **Tech:** Rust, Golang
-- **Hobbies:** watching anime, reading manga
+- **𝓝𝒶𝓂𝑒:** Fahzan Dewantara
+- **𝒢𝑒𝓃𝒹𝑒𝓇:** he/him
+- **𝒪𝒮:** Linux (Fedora)
+- **𝒯𝑒𝒸𝒽:** Rust, Golang
+- **𝐻𝑜𝒷𝒷𝓎𝓈:** watching anime, reading manga
 
 <br>
 
-## Knowledge
+##             ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
@@ -42,7 +46,7 @@
 
 <br>
 
-## Stats
+## 📊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 📊
 
 <p align="center">
   <img src="https://gh-readme-stats.vercel.app/api?username=fahzan1296&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -58,7 +62,7 @@
 
 <br>
 
-## Thanks for reading!
+## 💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖
 
 <div align="center">
 
